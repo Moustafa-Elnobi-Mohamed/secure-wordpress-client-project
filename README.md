@@ -93,6 +93,7 @@ secure-wordpress-client-project/
 │ ├── .htaccess
 │ └── index.php
 ├── screenshots/
+├──LICENSE
 └── README.md
 
 ---
